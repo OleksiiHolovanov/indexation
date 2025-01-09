@@ -1,6 +1,8 @@
-My facebook: https://www.facebook.com/profile.php?id=61565061640667
-
 My Linkedin: https://www.linkedin.com/in/oleksii-holovanov/
+
+My Facebook: https://www.facebook.com/profile.php?id=61565061640667
+
+My Patreon: https://www.patreon.com/c/OleksiiHolovanov
 
 How to use:
 1. Install the script
